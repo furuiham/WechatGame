@@ -17,7 +17,7 @@ AutoStreamingSettings:
   - onDemandDownload: 1
     assetPath: Assets/Scenes/SampleScene.unity
     localFileId: -1
-    rtMem: 0
+    rtMem: 128238
     warningFlag: 0
     refs: []
   mConfigCCD:
