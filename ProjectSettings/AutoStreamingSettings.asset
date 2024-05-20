@@ -13,13 +13,19 @@ AutoStreamingSettings:
   mMeshes: []
   mAnimations: []
   mSharedSceneAssets: []
-  mScenes: []
+  mScenes:
+  - onDemandDownload: 1
+    assetPath: Assets/Scenes/SampleScene.unity
+    localFileId: -1
+    rtMem: 0
+    warningFlag: 0
+    refs: []
   mConfigCCD:
     useCCD: 0
-    uosSecret: 
-    uosAppid: 
-    bucketUuid: 
-    bucketName: 
-    badgeName: 
+    uosSecret: e84229926c9f4c7988536741d0af8f27
+    uosAppid: c0bb4d27-774a-484a-baeb-5928ddc16eb8
+    bucketUuid: 3d54f0fe-9aea-45db-b233-b1577fc6f871
+    bucketName: wx01
+    badgeName: 1_0
     ttAppid: 
     targetPlatfrom: 
